@@ -149,6 +149,9 @@ body{
 }
 
 @media(max-width: 500px){
+  .quiz-start{
+    margin-bottom: 150%;
+  }
   .trivia{
     padding: 40px 40px 25px;
     margin-top: 150px;
